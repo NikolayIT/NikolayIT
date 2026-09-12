@@ -30,6 +30,7 @@ do {
     const data = await graphql(`{
         user(login: "${login}") {
             createdAt
+            followers { totalCount }
             issues { totalCount }
             pullRequests { totalCount }
             repositoriesContributedTo(contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY, PULL_REQUEST_REVIEW]) { totalCount }
@@ -90,6 +91,7 @@ const values = {
     ISSUES: number(user.issues.totalCount),
     REPOSITORIES_CONTRIBUTED_TO: number(user.repositoriesContributedTo.totalCount),
     ACCOUNT_AGE: number(accountAge),
+    FOLLOWERS: number(user.followers.totalCount),
     UPDATED: new Date().toISOString().slice(0, 10),
 };
 

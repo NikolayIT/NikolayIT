@@ -8,8 +8,6 @@
   <a href="https://nikolay.it">Blog</a>
   &nbsp;·&nbsp;
   <a href="https://www.youtube.com/c/NikolayKostov1990">YouTube</a>
-  &nbsp;·&nbsp;
-  <a href="https://zencodeo.com">ZenCodeo</a>
 </p>
 
 ---
@@ -28,22 +26,23 @@ I design and build systems on .NET, and I teach. I write about software architec
 | [TexasHoldemGameEngine](https://github.com/NikolayIT/TexasHoldemGameEngine) | Texas Hold 'em poker game engine | ![Stars](https://img.shields.io/github/stars/NikolayIT/TexasHoldemGameEngine?style=flat-square&label=%E2%98%85&color=555) |
 | [PressCenters.com](https://github.com/NikolayIT/PressCenters.com) | News aggregator for Bulgarian government press releases, ASP.NET Core | ![Stars](https://img.shields.io/github/stars/NikolayIT/PressCenters.com?style=flat-square&label=%E2%98%85&color=555) |
 | [nikolay.it](https://github.com/NikolayIT/nikolay.it) | The blog system that runs nikolay.it | ![Stars](https://img.shields.io/github/stars/NikolayIT/nikolay.it?style=flat-square&label=%E2%98%85&color=555) |
+| [BelotGameEngine](https://github.com/NikolayIT/BelotGameEngine) | Belot card game engine written in C# | ![Stars](https://img.shields.io/github/stars/NikolayIT/BelotGameEngine?style=flat-square&label=%E2%98%85&color=555) |
+| [ArtificialIntelligencePlayground](https://github.com/NikolayIT/ArtificialIntelligencePlayground) | Experiments with AI and machine learning | ![Stars](https://img.shields.io/github/stars/NikolayIT/ArtificialIntelligencePlayground?style=flat-square&label=%E2%98%85&color=555) |
+| [SantaseGameEngine](https://github.com/NikolayIT/SantaseGameEngine) | Santase card game engine | ![Stars](https://img.shields.io/github/stars/NikolayIT/SantaseGameEngine?style=flat-square&label=%E2%98%85&color=555) |
+| [CSharp-New-Features](https://github.com/NikolayIT/CSharp-New-Features) | Samples demonstrating new C# language features | ![Stars](https://img.shields.io/github/stars/NikolayIT/CSharp-New-Features?style=flat-square&label=%E2%98%85&color=555) |
 
 ## GitHub at a glance
 
-| | |
-| --- | ---: |
-| Public repositories | **{{ REPOSITORIES }}** |
-| Stars received | **{{ STARS }}** |
-| Commits | **{{ COMMITS }}** |
-| Pull requests | **{{ PULL_REQUESTS }}** |
-| Code reviews | **{{ CODE_REVIEWS }}** |
-| Issues opened | **{{ ISSUES }}** |
-| Years on GitHub | **{{ ACCOUNT_AGE }}** |
+| | | | |
+| --- | ---: | --- | ---: |
+| Public repositories | **{{ REPOSITORIES }}** | Commits | **{{ COMMITS }}** |
+| Stars received | **{{ STARS }}** | Pull requests | **{{ PULL_REQUESTS }}** |
+| Followers | **{{ FOLLOWERS }}** | Code reviews | **{{ CODE_REVIEWS }}** |
+| Years on GitHub | **{{ ACCOUNT_AGE }}** | Issues opened | **{{ ISSUES }}** |
 
 ## Languages
 
 {{ LANGUAGE_TEMPLATE_START:max=6 }}![{{ LANGUAGE_NAME }}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{ LANGUAGE_COLOR:uri }}&message={{ LANGUAGE_NAME:uri }}%EF%B8%B1{{ LANGUAGE_PERCENT:uri }}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
-<sub>Statistics refresh automatically every 12 hours (last update {{ UPDATED }}). Generated from <code>TEMPLATE.md</code>; do not edit <code>README.md</code> directly.</sub>
+<sub>Statistics refresh automatically every 12 hours (last update {{ UPDATED }}).</sub>
