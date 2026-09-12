@@ -35,11 +35,10 @@ I design and build systems on .NET, and I teach. I write about software architec
 | --- | ---: |
 | Public repositories | **26** |
 | Stars received | **3,369** |
-| Commits | **17,256** |
+| Commits | **17,257** |
 | Pull requests | **55** |
 | Code reviews | **28** |
 | Issues opened | **396** |
-| Repositories contributed to | **1** |
 | Years on GitHub | **13** |
 
 ## Languages
