@@ -8,6 +8,7 @@ on:
       - master
     paths:
       - TEMPLATE.md
+      - scripts/update-readme.mjs
       - .github/workflows/update-readme.yml
   workflow_dispatch:
 
@@ -19,17 +20,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Generate README.md from TEMPLATE.md
-        uses: devmount/profile-readme-stats@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-readme.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
 
       - name: Commit and push if changed
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
             git config user.name github-actions[bot]
             git config user.email 41898282+github-actions[bot]@users.noreply.github.com
             git add README.md

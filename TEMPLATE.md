@@ -33,7 +33,7 @@ I design and build systems on .NET, and I teach. I write about software architec
 
 | | |
 | --- | ---: |
-| Repositories | **{{ REPOSITORIES }}** |
+| Public repositories | **{{ REPOSITORIES }}** |
 | Stars received | **{{ STARS }}** |
 | Commits | **{{ COMMITS }}** |
 | Pull requests | **{{ PULL_REQUESTS }}** |
@@ -47,4 +47,4 @@ I design and build systems on .NET, and I teach. I write about software architec
 {{ LANGUAGE_TEMPLATE_START:max=6 }}![{{ LANGUAGE_NAME }}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{ LANGUAGE_COLOR:uri }}&message={{ LANGUAGE_NAME:uri }}%EF%B8%B1{{ LANGUAGE_PERCENT:uri }}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
-<sub>Statistics are refreshed automatically every 12 hours by a GitHub Actions workflow. Edit <code>TEMPLATE.md</code>, not <code>README.md</code>.</sub>
+<sub>Statistics refresh automatically every 12 hours (last update {{ UPDATED }}). Generated from <code>TEMPLATE.md</code>; do not edit <code>README.md</code> directly.</sub>
