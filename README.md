@@ -8,8 +8,6 @@
   <a href="https://nikolay.it">Blog</a>
   &nbsp;·&nbsp;
   <a href="https://www.youtube.com/c/NikolayKostov1990">YouTube</a>
-  &nbsp;·&nbsp;
-  <a href="https://zencodeo.com">ZenCodeo</a>
 </p>
 
 ---
@@ -28,18 +26,19 @@ I design and build systems on .NET, and I teach. I write about software architec
 | [TexasHoldemGameEngine](https://github.com/NikolayIT/TexasHoldemGameEngine) | Texas Hold 'em poker game engine | ![Stars](https://img.shields.io/github/stars/NikolayIT/TexasHoldemGameEngine?style=flat-square&label=%E2%98%85&color=555) |
 | [PressCenters.com](https://github.com/NikolayIT/PressCenters.com) | News aggregator for Bulgarian government press releases, ASP.NET Core | ![Stars](https://img.shields.io/github/stars/NikolayIT/PressCenters.com?style=flat-square&label=%E2%98%85&color=555) |
 | [nikolay.it](https://github.com/NikolayIT/nikolay.it) | The blog system that runs nikolay.it | ![Stars](https://img.shields.io/github/stars/NikolayIT/nikolay.it?style=flat-square&label=%E2%98%85&color=555) |
+| [BelotGameEngine](https://github.com/NikolayIT/BelotGameEngine) | Belot card game engine written in C# | ![Stars](https://img.shields.io/github/stars/NikolayIT/BelotGameEngine?style=flat-square&label=%E2%98%85&color=555) |
+| [ArtificialIntelligencePlayground](https://github.com/NikolayIT/ArtificialIntelligencePlayground) | Experiments with AI and machine learning | ![Stars](https://img.shields.io/github/stars/NikolayIT/ArtificialIntelligencePlayground?style=flat-square&label=%E2%98%85&color=555) |
+| [SantaseGameEngine](https://github.com/NikolayIT/SantaseGameEngine) | Santase card game engine | ![Stars](https://img.shields.io/github/stars/NikolayIT/SantaseGameEngine?style=flat-square&label=%E2%98%85&color=555) |
+| [CSharp-New-Features](https://github.com/NikolayIT/CSharp-New-Features) | Samples demonstrating new C# language features | ![Stars](https://img.shields.io/github/stars/NikolayIT/CSharp-New-Features?style=flat-square&label=%E2%98%85&color=555) |
 
 ## GitHub at a glance
 
-| | |
-| --- | ---: |
-| Public repositories | **26** |
-| Stars received | **3,369** |
-| Commits | **17,257** |
-| Pull requests | **55** |
-| Code reviews | **28** |
-| Issues opened | **396** |
-| Years on GitHub | **13** |
+| | | | |
+| --- | ---: | --- | ---: |
+| Public repositories | **26** | Commits | **17,258** |
+| Stars received | **3,369** | Pull requests | **55** |
+| Followers | **2,074** | Code reviews | **28** |
+| Years on GitHub | **13** | Issues opened | **396** |
 
 ## Languages
 
@@ -48,4 +47,4 @@ I design and build systems on .NET, and I teach. I write about software architec
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B16.3%25)
 
 
-<sub>Statistics refresh automatically every 12 hours (last update 2026-09-12). Generated from <code>TEMPLATE.md</code>; do not edit <code>README.md</code> directly.</sub>
+<sub>Statistics refresh automatically every 12 hours (last update 2026-09-12).</sub>
