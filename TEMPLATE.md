@@ -39,7 +39,6 @@ I design and build systems on .NET, and I teach. I write about software architec
 | Pull requests | **{{ PULL_REQUESTS }}** |
 | Code reviews | **{{ CODE_REVIEWS }}** |
 | Issues opened | **{{ ISSUES }}** |
-| Repositories contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
 | Years on GitHub | **{{ ACCOUNT_AGE }}** |
 
 ## Languages

@@ -24,7 +24,8 @@ jobs:
       - name: Generate README.md from TEMPLATE.md
         run: node scripts/update-readme.mjs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: add a USER_TOKEN secret (fine-grained PAT, read-only) so private and org activity is counted too.
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN || secrets.GITHUB_TOKEN }}
           PROFILE_LOGIN: ${{ github.repository_owner }}
 
       - name: Commit and push if changed
