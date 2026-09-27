@@ -35,16 +35,16 @@ I design and build systems on .NET, and I teach. I write about software architec
 
 | | | | |
 | --- | ---: | --- | ---: |
-| Public repositories | **26** | Commits | **17,493** |
-| Stars received | **3,364** | Pull requests | **55** |
+| Public repositories | **27** | Commits | **17,592** |
+| Stars received | **3,365** | Pull requests | **55** |
 | Followers | **2,073** | Code reviews | **28** |
 | Years on GitHub | **13** | Issues opened | **396** |
 
 ## Languages
 
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237355dd&message=C%23%EF%B8%B175.0%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B118.8%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B16.3%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237355dd&message=C%23%EF%B8%B176.5%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B117.6%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B15.9%25)
 
 
 <sub>Statistics refresh automatically every 12 hours (last update 2026-09-27).</sub>
