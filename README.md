@@ -37,7 +37,7 @@ I design and build systems on .NET, and I teach. I write about software architec
 | --- | ---: | --- | ---: |
 | Public repositories | **27** | Commits | **17,709** |
 | Stars received | **3,367** | Pull requests | **55** |
-| Followers | **2,073** | Code reviews | **28** |
+| Followers | **2,074** | Code reviews | **28** |
 | Years on GitHub | **13** | Issues opened | **396** |
 
 ## Languages
@@ -47,4 +47,4 @@ I design and build systems on .NET, and I teach. I write about software architec
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B15.9%25)
 
 
-<sub>Statistics refresh automatically every 12 hours (last update 2026-10-01).</sub>
+<sub>Statistics refresh automatically every 12 hours (last update 2026-10-02).</sub>
